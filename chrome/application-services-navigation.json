@@ -57,7 +57,7 @@
                 {
                     "appId": "applicationServices",
                     "title": "Kafka Instances",
-                    "isBeta": true,
+                    "isBeta": false,
                     "href": "/application-services/streams/kafkas"
                 },
                 {
